@@ -1,7 +1,8 @@
 # Diabetes_Classification_Project
 
 In this project, we aim to analyze diabetes data and address some important business problems/questions.
-This project is focused on Exploratory Data Analysis and Model Training using Python.
+This project is focused on Exploratory Data Analysis and Model Training using Python. 
+We will use two diifferent classification machine learning models and compare their accuracy.
 
 Diabetes is one of the most frequent diseases worldwide and the number of diabetic patients are growing over the years. The main cause of diabetes remains unknown, yet scientists believe that both genetic factors and environmental lifestyle play a major role in diabetes.
 
